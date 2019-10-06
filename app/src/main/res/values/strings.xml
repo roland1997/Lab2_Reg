@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Labor2_register</string>
+    <string name="signInButton">Sign In</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="registerButton">Register</string>
+    <string name="department">Department</string>
+    <string name="registerInButton">Register</string>
+</resources>
